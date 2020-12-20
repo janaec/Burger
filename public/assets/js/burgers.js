@@ -38,7 +38,7 @@ $(document).ready(function () {
 
         // [name=plan] will find an element with a "name" attribute equal to the string "plan"
         var newBurger = {
-            burger_name: $("#newBurger").val().trim(),
+            burger_name: $("#newburger").val().trim(),
                 
          
         };
